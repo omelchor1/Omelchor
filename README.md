@@ -1,2 +1,0 @@
-# Omelchor
-web-Jojolete
